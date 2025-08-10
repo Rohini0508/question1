@@ -1,0 +1,52 @@
+transaction_id,sale_amount,sale_date,customer.customer_id,customer.customer_name,product.product_name,product.category,sale_category,discount_eligible
+1,499.99,2025-07-01,C001,  John Doe  ,Laptop,Electronics,Premium,Yes
+2,15.5,2025-07-02,C002,Jane Smith,Mouse,Accessories,Mid-Range,No
+3,45.0,2025-07-03,C003,,Keyboard,Accessories,Mid-Range,No
+4,199.99,2025-07-04,C004,Alice Brown,Monitor,Electronics,Mid-Range,No
+5,9.99,2025-07-05,,Bob Wilson,Usb Cable,Accessories,Mid-Range,No
+6,299.95,2025-07-06,C006,Emma Davis,Smartphone,Electronics,Mid-Range,Yes
+7,29.99,2025-07-07,C007,  Tom Clark  ,Headphones,Audio,Mid-Range,No
+8,199.0,2025-07-08,C008,Sarah Lee,Tablet,Electronics,Mid-Range,No
+9,19.99,2025-07-09,C009,Mike Adams,Charger,Accessories,Mid-Range,No
+10,249.99,2025-07-10,C010,Lisa Green,Smart Watch,Wearables,Mid-Range,Yes
+1,499.99,2025-07-01,C001,  John Doe  ,Laptop,Electronics,Premium,Yes
+11,5.99,2025-07-11,C011,David Kim,Mouse Pad,Accessories,Mid-Range,No
+12,59.95,2025-07-12,C012,  Emily White  ,Speaker,Audio,Budget,No
+13,79.99,2025-07-13,C013,Chris Black,Router,Networking,Budget,No
+14,120.0,2025-07-14,C014,Anna Taylor,Hard Drive,Storage,Mid-Range,No
+15,39.99,2025-07-15,,James Hall,Webcam,Accessories,Mid-Range,No
+16,69.9,2025-07-16,C016,  Laura King  ,Microphone,Audio,Budget,No
+17,29.99,2025-07-17,C017,Mark Evans,Power Bank,Accessories,Mid-Range,No
+18,25.0,2025-07-18,C018,Sophie Clark,Laptop Stand,Accessories,Mid-Range,No
+19,12.99,2025-07-19,C019,  Paul Young  ,Hdmi Cable,Accessories,Mid-Range,No
+20,14.95,2025-07-20,C020,Rachel Lee,Earphones,Audio,Mid-Range,No
+21,49.99,2025-07-21,C021,Tom Brown,Bluetooth Speaker,Audio,Mid-Range,No
+22,399.0,2025-07-22,C022,  Lily Adams  ,Smart Tv,Electronics,Premium,Yes
+23,59.99,2025-07-23,C023,Henry Wilson,Game Controller,Gaming,Budget,No
+24,299.99,2025-07-24,C024,Grace Kim,Vr Headset,Gaming,Mid-Range,Yes
+25,499.0,2025-07-25,C025,  Oliver Davis  ,Camera,Electronics,Premium,Yes
+26,29.95,2025-07-26,C026,Mia Harris,Tripod,Accessories,Mid-Range,No
+27,19.99,2025-07-27,C027,Ethan Lee,Memory Card,Storage,Mid-Range,No
+28,9.5,2025-07-28,C028,Ava Clark,Card Reader,Accessories,Mid-Range,No
+29,39.99,2025-07-29,C029,  Noah Taylor  ,External Battery,Accessories,Mid-Range,No
+30,14.99,2025-07-30,C030,Isabella White,Usb Hub,Accessories,Mid-Range,No
+31,99.99,2025-07-31,C031,Liam Brown,Docking Station,Accessories,Budget,No
+32,299.0,2025-07-01,C032,  Sophia Green  ,Projector,Electronics,Mid-Range,Yes
+33,7.99,2025-08-01,C033,Mason Hall,Screen Protector,Accessories,Mid-Range,No
+34,12.99,2025-08-02,C034,Charlotte King,Phone Case,Accessories,Mid-Range,No
+35,29.99,2025-07-03,C035,James Young,Laptop Bag,Accessories,Mid-Range,No
+36,19.95,2025-08-04,,Ella Adams,Wireless Mouse,Accessories,Mid-Range,No
+37,79.99,2025-08-05,C037,  Lucas Clark  ,Gaming Keyboard,Gaming,Budget,No
+38,24.99,2025-07-06,C038,Harper Lee,Monitor Stand,Accessories,Mid-Range,No
+39,15.0,2025-08-07,C039,Benjamin Evans,Usb Flash Drive,Storage,Mid-Range,No
+40,19.99,2025-08-08,C040,Aria Wilson,Smart Bulb,Smart Home,Mid-Range,No
+41,14.99,2025-07-09,C041,  Logan Davis  ,Smart Plug,Smart Home,Mid-Range,No
+42,39.99,2025-08-10,C042,Chloe Harris,Wifi Extender,Networking,Mid-Range,No
+43,49.5,2025-08-11,C043,Elijah Kim,Network Switch,Networking,Mid-Range,No
+44,17.99,2025-07-12,C044,Zoe Taylor,Tablet Case,Accessories,Mid-Range,No
+45,29.99,2025-08-13,C045,  Mason Lee  ,Stylus Pen,Accessories,Mid-Range,No
+46,34.99,2025-08-14,C046,Avery Clark,Portable Speaker,Audio,Mid-Range,No
+47,79.99,2025-07-15,C047,Jack Brown,Fitness Tracker,Wearables,Budget,No
+48,199.0,2025-08-16,C048,  Luna Green  ,Drone,Electronics,Mid-Range,No
+49,149.99,2025-08-17,C049,Eli Adams,Action Camera,Electronics,Mid-Range,No
+50,12.99,2025-07-18,C050,Mila White,Car Charger,Accessories,Mid-Range,No

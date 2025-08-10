@@ -1,0 +1,8 @@
+#!C:\Users\Rohini\Documents\jsontomysql\venv\Scripts\python.exe
+from __future__ import absolute_import
+
+import sharepoint.cmd
+
+if __name__ == '__main__':
+    sharepoint.cmd.main()
+
